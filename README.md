@@ -30,6 +30,10 @@ Favorite Apps
             2) It also tracks the time so that you clock in before being late
             3) It has a section where it keeps the records of your check ins 
             
+GIF
+
+https://im.ezgif.com/tmp/ezgif-1-694d19b84c.gif
+            
 My idea for an app
 
 The app that I wan to create is a bus tracker app for students based on my personal experience with school buses. The app would work by tracking the location of the buses and showing their route in a map. The students would login and enter their bus route number and see where their bus is at that exact moment. The app would keep track of the morning and afternoon buses and would keep the information of the school and students safe. The app is to help students know when to go to their bus stop without beign too late or too early.
