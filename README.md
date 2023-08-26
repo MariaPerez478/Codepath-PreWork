@@ -31,8 +31,7 @@ Favorite Apps
             3) It has a section where it keeps the records of your check ins 
             
 GIF
-
-https://media3.giphy.com/media/Jj2DKD7G8M83m7LonL/giphy.gif
+https://giphy.com/gifs/Jj2DKD7G8M83m7LonL/fullscreen
             
 My idea for an app
 
