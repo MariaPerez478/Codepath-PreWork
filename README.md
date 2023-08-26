@@ -32,7 +32,7 @@ Favorite Apps
             
 GIF
 
-https://im.ezgif.com/tmp/ezgif-1-694d19b84c.gif
+https://media3.giphy.com/media/Jj2DKD7G8M83m7LonL/giphy.gif
             
 My idea for an app
 
